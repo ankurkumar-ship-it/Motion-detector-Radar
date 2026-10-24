@@ -1,0 +1,19 @@
+{
+  "short_name": "Sentinel-X",
+  "name": "AN/MPQ-64 SENTINEL-X Tactical Radar",
+  "description": "Tactical Multi-Spectrum Optical Cyber Defense Radar",
+  "start_url": "https://motion-detector-radar.onrender.com/",
+  "scope": "https://motion-detector-radar.onrender.com/",
+  "display": "standalone",
+  "orientation": "landscape-primary",
+  "background_color": "#020905",
+  "theme_color": "#00ff88",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
